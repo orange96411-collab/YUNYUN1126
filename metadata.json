@@ -1,0 +1,6 @@
+{
+  "name": "자생단체 통합 관리시스템",
+  "description": "주민자치위원회, 통장협의회, 새마을단체 등 자생단체의 회원 임기, 회의록·참석률, 보조금 정산을 통합 관리하는 행정 대시보드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
